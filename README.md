@@ -4,3 +4,5 @@ This project uses K-Means Clustering, an unsupervised machine learning algorithm
 ## Data
 - **Disaster Data**: Includes columns like `BanyakKejadian`, `PohonTumbang`, `JaringanListrik` representing disaster occurrence, fallen trees, and power disruptions, respectively.
 - **Geospatial Data**: District shapefile `shp sleman.shp` used for mapping the districts and their corresponding risk labels.
+
+This project is developed by Muna Faizatun Nabilah
